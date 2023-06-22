@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end development and inclusive design.
 - 🌱 I’m currently earning my full-stack certification on freeCodeCamp.
 - 💜 I’m looking to collaborate on job opportunities for junior developers.
-- 📫 How to reach me: theNomadicEnby.carrd.co
+- 📫 How to reach me: <link theNomadicEnby.carrd.co>
