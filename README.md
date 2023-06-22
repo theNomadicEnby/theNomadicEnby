@@ -1,5 +1,5 @@
-- 👋🏽 Hi, I’m @theNomadicEnby .
+- 👋🏽 Hi, I’m Leo M., @theNomadicEnby
 - 👀 I’m interested in front-end development and inclusive design.
-- 🌱 I’m currently earning my full-stack certification on freeCodeCamp.
+- 🌱 I’m currently earning my full-stack certification on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby).
 - 💜 I’m looking to collaborate on job opportunities for junior developers.
 - 📫 How to reach me: [theNomadicEnby - Carrd](theNomadicEnby.carrd.co)
