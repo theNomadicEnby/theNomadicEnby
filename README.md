@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MxUniverse
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning the React framework on freeCodeCamp
-- 💞️ I’m looking to collaborate on job opportunities for junior developers
-- 📫 How to reach me ...
+- 👋🏽 Hi, I’m @theNomadicEnby .
+- 👀 I’m interested in front-end development and inclusive design.
+- 🌱 I’m currently earning my full-stack certification on freeCodeCamp.
+- 💜 I’m looking to collaborate on job opportunities for junior developers.
+- 📫 How to reach me: theNomadicEnby.carrd.co
