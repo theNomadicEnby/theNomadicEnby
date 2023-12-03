@@ -1,9 +1,9 @@
 ### 👋🏽 👨🏽‍💻 About Me :
-I'm a digital nomad, inclusion advocate, and aspiring frontend developer.
+I'm a digital nomad, inclusion advocate, and aspiring full stack developer.
 
 - I’m Leo M./@theNomadicEnby
 - I’m currently earning my frontend certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby) and from both [Learn Programming](learnprogramming.online)/[React Tutorial](react-tutorial.app).
-- I’m looking to collaborate on internship and job opportunities for junior frontend developers.
+- I’m looking to collaborate on internship and job opportunities for junior web and iOS developers.
 - How to reach me: [theNomadicEnby - LinkedIn](https://linkedin.com/theNomadicEnby)
 
 ### 🛠️ Languages and Tools :
