@@ -2,7 +2,7 @@
 I'm a digital nomad, inclusion advocate, and aspiring full stack developer.
 
 - I’m Leo M.
-- I’m currently earning my full stack certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby) and from both [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/) / [React Tutorial](https://react-tutorial.app).
+- I’m currently earning my full stack certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby) and from [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/) / [React Tutorial](https://react-tutorial.app).
 - I’m looking to collaborate on internship and job opportunities for junior web and iOS developers.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/lemorris11/)
 
