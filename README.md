@@ -1,9 +1,9 @@
 ### 👋🏽 👨🏽‍💻 About Me :
-I'm a digital nomad, inclusion advocate, and aspiring full stack developer.
+I'm a digital nomad, inclusion advocate, and aspiring cybersecurity engineer.
 
 - I’m Leo M.
-- I’m currently earning my full stack certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby) and from [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/) / [React Tutorial](https://react-tutorial.app).
-- I’m looking to collaborate on internship and job opportunities for junior web and iOS developers.
+- I’m currently earning my certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby), [LinkedIn Learning](https://www.linkedin.com/learning/), [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/), and [CompTIA](https://www.comptia.org/home).
+- I’m looking to collaborate on entry-level job opportunities for backend and iOS developers, as well as cybersecurity specialists.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/lemorris11/)
 
 ### 🛠️ Languages and Tools :
