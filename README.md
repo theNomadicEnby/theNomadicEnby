@@ -2,7 +2,7 @@
 I'm a digital nomad, inclusion advocate, and aspiring cybersecurity engineer.
 
 - I’m Leo M.
-- I’m currently earning my certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby), [LinkedIn Learning](https://www.linkedin.com/learning/), [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/), and [CompTIA](https://www.comptia.org/home).
+- I’m currently earning my certifications on [@freeCodeCamp](https://www.freecodecamp.org/theNomadicEnby), [Learn Programming](https://learnprogramming.online) / [Learn JavaScript](https://learnjavascript.online/), [CompTIA](https://www.comptia.org/home), and [the Linux Foundation](https://linuxfoundation.org).
 - I’m looking to collaborate on entry-level job opportunities for backend and iOS developers, as well as cybersecurity specialists.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/lemorris11/)
 
